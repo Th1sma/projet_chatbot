@@ -10,4 +10,6 @@ Pour réaliser ce mini projet, je suis partie sur une template html déjà défi
 ## Information : 
 - Utilisation de l'API CoinGecko
 
-### Voici les possibilités de discussion avec lui : 
+### Voici les possibilités de discussion : 
+
+
