@@ -10,6 +10,14 @@ Pour réaliser ce mini projet, je suis partie sur une template html déjà défi
 ## Information : 
 - Utilisation de l'API CoinGecko
 
-### Voici les possibilités de discussion : 
+### Voici ce qui peut lui etre demandé actuellement : 
 
+- gus help me
+- list
+- ethereum
+- bitcoin
+- xrp
+- binance
+- cardano
+- polkadot
 
