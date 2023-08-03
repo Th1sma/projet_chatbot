@@ -10,6 +10,9 @@ Pour réaliser ce mini projet, je suis partie sur une template html déjà défi
 ## Information : 
 - Utilisation de l'API CoinGecko
 
+## Remarque
+Le chatbot n'est pas parfait et comporte probablement certains bugs. 
+
 ### Voici ce qui peut lui etre demandé actuellement : 
 
 - gus help me
