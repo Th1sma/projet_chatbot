@@ -24,3 +24,5 @@ Le chatbot n'est pas parfait et comporte probablement certains bugs.
 - cardano
 - polkadot
 
+"Une brève intéraction avec lui peut etre possible en lui disant "hello" et en lui demandant comme il va.
+
