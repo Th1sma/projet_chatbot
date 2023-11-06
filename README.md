@@ -26,3 +26,5 @@ Le chatbot n'est pas parfait et comporte probablement certains bugs.
 
 "Une brève intéraction avec lui peut etre possible en lui disant "hello" et en lui demandant comme il va.
 
+## Auteur
+Ce projet a été développé par Th1sma.
